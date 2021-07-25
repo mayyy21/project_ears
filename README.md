@@ -5,7 +5,7 @@
 ## Introduction 🔨
    為了讓與人互動的機器狗能有更加擬真的效果，我們計畫設計一套可以使機器狗耳朵能隨環境音轉動的裝置。隨聲源轉動的耳朵能更接近真實動物的活動方式，在外觀上更接近真實寵物，進而讓使用者在親密感上有更深一層的體驗。
 
-## Hardware Setup
+## Hardware Setup 🧰
 
 ## Software Setup ℹ️
 
@@ -35,5 +35,5 @@
     * numpy == 1.20.3
     * typing == 3.7.4.3
 
-## User manual
+## User manual 📖
 
