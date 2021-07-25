@@ -28,7 +28,7 @@
   + module: 📎
     * scikit-learn == 0.19.2
     * onnx-runtime == 1.8.1
-    * os 
+    * os == 2.1.4
     * scipy == 1.7.0
     * skl2onnx ==  1.9.0
     * numpy == 1.20.3
