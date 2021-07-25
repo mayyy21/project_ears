@@ -2,11 +2,11 @@
 ======
 # 作品: 小耳朵-擬真寵物狗
 <br></br>
-## Introduction
+## Introduction 🔨
 
 ## Hardware Setup
 
-## Software Setup
+## Software Setup ℹ️
 
   + 以下所有步驟皆需使用wav格式的音源檔案
   
@@ -24,6 +24,15 @@
     * _樹梅派_ 
     * _ubuntu mate lTS (version:20.4.0)_
     * _progranning language: python_
+   
+  + module: 📎
+    * scikit-learn == 0.19.2
+    * onnx-runtime == 1.8.1
+    * os 
+    * scipy == 1.7.0
+    * skl2onnx ==  1.9.0
+    * numpy == 1.20.3
+    * typing == 3.7.4.3
 
 ## User manual
 
